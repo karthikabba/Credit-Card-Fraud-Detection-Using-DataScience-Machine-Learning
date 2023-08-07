@@ -46,6 +46,4 @@ The model performance on the test set is summarized below:
   - F1 Score: 0.11
 
 ## Conclusion
-The use of SMOTE significantly improved the performance of the logistic regression model for fraud detection. The model achieved a high recall rate of 90% for detecting fraudulent transactions, which is crucial for this type of application. However, the precision of the model remains low at 6%, indicating a higher number of false positives. This trade-off between precision and recall should be considered based on the specific use case and the impact of false positives and false negatives.
-
 In future work, additional machine learning models and advanced techniques can be explored to further enhance the fraud detection capabilities and improve precision-recall trade-offs. Additionally, hyperparameter tuning and feature engineering may help in achieving even better results.
